@@ -103,3 +103,5 @@ ENV/
 config.py
 
 News_mood_v2.0.ipynb
+
+.DS_Store
